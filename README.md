@@ -15,7 +15,7 @@ You can access the live preview here: [ChippySquared Portfolio](https://chippysq
 
 - **Interactive Elements**: You interact with objects in the environment to reveal details.
 - **Dynamic Experience**: Combines a game-like experience with portfolio presentation, responsive controls, and fast loading times.
-- **Responsive Design**: Optimized for browsers on both desktop and mobile devices.
+- **Responsive Design**: Optimised for browsers on both desktop and mobile devices.
 
 ## Technologies Used
 
